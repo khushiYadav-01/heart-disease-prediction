@@ -118,7 +118,7 @@ streamlit run app.py
 ## 📷 Application Preview
 
 <img width="953" height="400" alt="image" src="https://github.com/user-attachments/assets/fe39409a-6fb4-4963-87fa-71f0431e8845" />
-<img width="913" height="302" alt="image" src="https://github.com/user-attachments/assets/9a7ff8c5-3b6b-439b-b97a-8ecec6c00304" />
+<img width="935" height="321" alt="image" src="https://github.com/user-attachments/assets/a2f9da39-d5da-4a20-abc6-f8684855ae8b" />
 
 
 
